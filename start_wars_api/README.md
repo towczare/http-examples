@@ -1,11 +1,13 @@
 # Postman
 
+![Star_Wars_Logo.png](Star_Wars_Logo.png)
+
 1. Install postman tool from https://www.getpostman.com/
 2. Visit free open Star Wars API https://swapi.co
 
 # Exercise
 
-1. Use some of endpoints and play with it using POSTMAN to answet following questions
+1. Use some of endpoints and play with it using POSTMAN to answer following questions
 2. Questions:
 * A) What eye color have `C-3PO`?
 * B) What is the height of `R2-D2`?

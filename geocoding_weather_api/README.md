@@ -1,5 +1,7 @@
 # Geocoding and Weather API
 
+![world.jpg](world.jpg)
+
 ## Materials
 
 Here is couple of services:
