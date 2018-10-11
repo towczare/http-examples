@@ -20,3 +20,5 @@
 * I) Is there water on surface?
 * J) What model of startship does own `Darth Vader`?
 * K) What starhip class was it?
+* L) Who is director of `The Force Awakends`?
+* M) How many eye colors do have `Wookie` specie?
