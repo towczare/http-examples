@@ -25,5 +25,5 @@ Using only `curl` command line tool, achieve following:
 - dog `Pimpuś` (4 years)
 - dog `Reksio` (2 years)
 - cat `Filemon` (11 years)
-3. Unfortunately `Filemon` is sick, and we have to make visit for him. Cat loses his fur and won't eat anything.
+3. Unfortunately `Filemon` is sick, and we have to make visit for him. Cat loses his fur and do not want to eat anything.
 4. Janusz changed city and moved to `Warsaw Wyzwolenia Street 56/4` Try to make this correction in our system.
